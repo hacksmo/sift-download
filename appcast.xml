@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sift</title>
+        <item>
+            <title>1.7.1</title>
+            <pubDate>Tue, 17 Nov 2026 17:04:18 +0800</pubDate>
+            <sparkle:version>1710</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/hacksmo/sift-download/releases/download/v1.7.1/Sift-1.7.1.dmg" length="25440387" type="application/octet-stream" sparkle:edSignature="CZsCXuk3aj7fbbTEM83meRR3FBuMQ59f9WnWo0e6/xqbV/xH0xf5rsOogH0ncW5DCA36jHgMurerP2akyGClAg=="/>
+        </item>
+    </channel>
+</rss>
