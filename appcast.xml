@@ -3,12 +3,20 @@
     <channel>
         <title>Sift</title>
         <item>
-            <title>1.7.1</title>
-            <pubDate>Tue, 17 Nov 2026 17:04:18 +0800</pubDate>
-            <sparkle:version>1710</sparkle:version>
-            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <title>1.7.2</title>
+            <pubDate>Tue, 17 Nov 2026 18:06:17 +0800</pubDate>
+            <sparkle:version>1720</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hacksmo/sift-download/releases/download/v1.7.1/Sift-1.7.1.dmg" length="25440387" type="application/octet-stream" sparkle:edSignature="CZsCXuk3aj7fbbTEM83meRR3FBuMQ59f9WnWo0e6/xqbV/xH0xf5rsOogH0ncW5DCA36jHgMurerP2akyGClAg=="/>
+            <description sparkle:format="plain-text"><![CDATA[这次更新集中在「看得更细」和「找得更稳」：
+
+- 视觉识别的清晰度改为按本机内存自动选择，16 GB 以上会自动提高分辨率
+- 免费版可索引的图片上限从 500 张提到 1000 张
+- 修复删除素材后预览窗口仍显示已删除图片的问题
+- 检测到新版本时，会在窗口里说明这一版改了什么
+- 新增浅色 / 深色 / 跟随系统三种外观，可在「显示」菜单或设置里切换
+- 左下角的反馈按钮换成哔哩哔哩，教程和更新视频都在那里]]></description>
+            <enclosure url="https://github.com/hacksmo/sift-download/releases/download/v1.7.2/Sift-1.7.2.dmg" length="25530555" type="application/octet-stream" sparkle:edSignature="2EKdZwcBo6BF0Pe8+r/gMc8w5lHbxBhuKy9PrjM617I4M5fbRIWUp+WkNLd1K9+Ed3XFNuPp8jfVFEQlBGJdAw=="/>
         </item>
     </channel>
 </rss>
