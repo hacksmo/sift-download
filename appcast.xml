@@ -3,6 +3,19 @@
     <channel>
         <title>Sift</title>
         <item>
+            <title>1.7.3</title>
+            <pubDate>Tue, 17 Nov 2026 19:06:42 +0800</pubDate>
+            <sparkle:version>1730</sparkle:version>
+            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[1.7.2 的更新说明没能显示出来，这一版修好了：
+
+- 检测到新版本时，窗口里会正常出现更新说明，不再是一片空白
+- 菜单里的「查看更新内容…」现在能打开全文；此前点了没有反应
+- 下载完成的那一步也会补读一次更新说明，网络慢时不会漏掉]]></description>
+            <enclosure url="https://github.com/hacksmo/sift-download/releases/download/v1.7.3/Sift-1.7.3.dmg" length="26575811" type="application/octet-stream" sparkle:edSignature="J7QgdnaBgAqz02z1UokQDq/nuGF8vbchx0XTKkz3WUm2Kb8WD7AsVqwYT9ku748TmSQcRFm3mLkKP2WF6FCHAw=="/>
+        </item>
+        <item>
             <title>1.7.2</title>
             <pubDate>Tue, 17 Nov 2026 18:06:17 +0800</pubDate>
             <sparkle:version>1720</sparkle:version>
