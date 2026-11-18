@@ -1,7 +1,20 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Sift</title>
+        <item>
+            <title>1.7.4</title>
+            <pubDate>Wed, 18 Nov 2026 14:00:46 +0800</pubDate>
+            <sparkle:version>1740</sparkle:version>
+            <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[这一版修的是「描述在打转」的问题：
+
+- 视觉识别偶尔会卡住重复同一句话，把描述撑到几百字却始终没说清图里是什么；这一版会自动收回到正常长度
+- 已经打转的历史描述，升级后首次打开时自动修好，不用重新标注
+- 描述打转时被截断的残句也会一并清掉]]></description>
+            <enclosure url="https://github.com/hacksmo/sift-download/releases/download/v1.7.4/Sift-1.7.4.dmg" length="26164435" type="application/octet-stream" sparkle:edSignature="aR1iHZeELx0TkMIWKDmsMx4YXhQ05exYX5ai0X+3aMbqeuO81ExE1SRDZjh5wvjoAXraJuwCjQ5HtyGDy9DgCA=="/>
+        </item>
+<title>Sift</title>
         <item>
             <title>1.7.3</title>
             <pubDate>Tue, 17 Nov 2026 19:06:42 +0800</pubDate>
