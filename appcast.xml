@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.7.6</title>
+            <pubDate>Wed, 18 Nov 2026 17:56:40 +0800</pubDate>
+            <sparkle:version>1760</sparkle:version>
+            <sparkle:shortVersionString>1.7.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[换了一个新图标，顺手修掉一条识别没写完的素材。
+
+- 新图标：放大镜的手柄和圆环现在是一体的，不再像一根棒子压在圈上；镜片里的山峰和背景板都重新上了色
+- 修：极少数图片的描述会卡在同一句话上打转，直到把字数用完 —— 这一版会自动把重复的部分收回来，已经打转的素材升级后首次打开时自动修好
+            - 修：上面那种情况被截断后，描述末尾会留下半句话；这一版把它清掉，描述回到完整句子]]></description>
+            <enclosure url="https://github.com/hacksmo/sift-download/releases/download/v1.7.6/Sift-1.7.6.dmg" length="28380362" type="application/octet-stream" sparkle:edSignature="NUXyJ7MF0P7KfdzUSLPuQpKKFhI1tr4QqM0bKC+PkWJVf0wnwaRctMmPsqkMP4kYqJoNPcNw9zH1kMZqXpXWBg=="/>
+        </item>
+        <item>
             <title>1.7.5</title>
             <pubDate>Wed, 18 Nov 2026 15:44:02 +0800</pubDate>
             <sparkle:version>1750</sparkle:version>
