@@ -2,6 +2,18 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.7.5</title>
+            <pubDate>Wed, 18 Nov 2026 15:44:02 +0800</pubDate>
+            <sparkle:version>1750</sparkle:version>
+            <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[这一版修「关掉窗口后点图标没反应」：
+
+- 用 ⌘W 关闭窗口后，点 Dock 图标可以正常把窗口开回来；此前会卡在「图标亮着但没有窗口」，只能强制退出
+            - 最小化窗口后点 Dock，仍然恢复原来那个窗口，不会多开一个]]></description>
+            <enclosure url="https://github.com/hacksmo/sift-download/releases/download/v1.7.5/Sift-1.7.5.dmg" length="25526445" type="application/octet-stream" sparkle:edSignature="ZMKneMXfGMKCr9RtGtyqU/QqyUGW0lOgPTAsBOcerVNarX0uX5QDXuFjWjXUWxRqDAzAjIkTgLsTotDs7s87Cg=="/>
+        </item>
+        <item>
             <title>1.7.4</title>
             <pubDate>Wed, 18 Nov 2026 14:00:46 +0800</pubDate>
             <sparkle:version>1740</sparkle:version>
